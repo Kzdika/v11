@@ -4660,9 +4660,9 @@ case 'bugmenu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `â—Ž Â© Hay Kak ${pushname} ðŸ‘‹ Selamat ${salam}
 
-[ ðŸ‡²ðŸ‡¨ Aku Adalah Bot War Dari Isekai]
+[ ðŸ‡²ðŸ‡¨ Aku Adalah Bot War Dari Indonesia]
 
-Â° Owner  : 6288293499014
+Â° Owner  : 6283186308195
 Â° Version : 11
 Â° Baileys : 4.4.0
 â–¬â–­â–¬â–­â–¬â–­â–¬â–­â–¬â–¬â–­â–¬â–­â–¬
@@ -4671,24 +4671,24 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `â—Ž Â© Hay Kak ${p
 â–¬â–­â–¬â–­â–¬â–­â–¬â–­â–¬â–¬â–­â–¬â–­â–¬
 â”â”â”âŠ±[ SPECIAL ]
 â”£âafk { kasih reactions }
-â”£âkzghoib [ on / off ]
-â”£âkzjagoan [ reply target ]
-â”£âk,sange [ Harus Menjadi Admin ]
+â”£ârexjughoib [ on / off ]
+â”£ârexjujagoan [ reply target ]
+â”£ârexjusange [ Harus Menjadi Admin ]
 â”£âbugtiktok [ Link ] - Bug Sw
 â”—â”â”âŠ±[Â°rexjuÂ°]
 â–¬â–­â–¬â–­â–¬â–­â–¬â–­â–¬â–¬â–­â–¬â–­â–¬
 â”â”â”âŠ±[ TARGET ]
 â”£âðŸ”¥ 628xxx|5|5
 â”£âcrashmex 628xxx|5|5
-â”£âkzskuy 628xxx
-â”£âkzsantet 628xxx@s.whatsapp.net|10|10s
+â”£ârexjuskuy 628xxx
+â”£ârexjusantet 628xxx@s.whatsapp.net|10|10s
 â”£âcatalogpc 628xxx@s.whatsapp.net|10|10s
 â”—â”â”âŠ±[Â°rexjuÂ°]
 â–¬â–­â–¬â–­â–¬â–­â–¬â–­â–¬â–¬â–­â–¬â–­â–¬
 Ketik > m.chat ( di group dulu )
 â”â”â”âŠ±[ GROUP ]
-â”£âgaskz 112674448xxx
-â”£âkzsantetgc  1237891xxxx@g.us|10|10s
+â”£âgasrexju 112674448xxx
+â”£ârexjusantetgc  1237891xxxx@g.us|10|10s
 â”£âcataloggc 1237891xxxx@g.us|10|10s
 â”—â”â”âŠ±[Â°rexjuÂ°]
 â”â”â”âŠ±[ BUG ]
@@ -4756,26 +4756,26 @@ Ketik > m.chat ( di group dulu )
 â”£âðŸ [ jumlah ]
 â”£âðŸ¦‚ [ jumlah ]
 â”£âðŸŒ· [ jumlah ]
-â”£âkz1 [ jumlah ]
-â”£âkz2 [ jumlah ]
-â”£âkz3 [ jumlah ]
-â”£âkz4 [ jumlah ]
-â”£âkz5 [ jumlah ]
-â”£âkz6 [ jumlah ]
-â”£âkz7 [ jumlah ]
-â”£âkz8 [ jumlah ]
-â”£âkz9 [ jumlah ]
-â”£âkz10 [ jumlah ]
-â”£âkz11 [ jumlah ]
-â”£âkz12 [ jumlah ]
-â”£âkz13 [ jumlah ]
-â”£âkz14 [ jumlah ]
-â”£âkz15 [ jumlah ]
-â”£âkz16 [ jumlah ]
-â”£âkz17 [ jumlah ]
-â”£âkz18 [ jumlah ]
-â”£âkz19 [ jumlah ]
-â”£âkz20 [ jumlah ]
+â”£ârexju1 [ jumlah ]
+â”£ârexju2 [ jumlah ]
+â”£ârexju3 [ jumlah ]
+â”£ârexju4 [ jumlah ]
+â”£ârexju5 [ jumlah ]
+â”£ârexju6 [ jumlah ]
+â”£ârexju7 [ jumlah ]
+â”£ârexju8 [ jumlah ]
+â”£ârexju9 [ jumlah ]
+â”£ârexju10 [ jumlah ]
+â”£ârexju11 [ jumlah ]
+â”£ârexju12 [ jumlah ]
+â”£ârexju13 [ jumlah ]
+â”£ârexju14 [ jumlah ]
+â”£ârexju15 [ jumlah ]
+â”£ârexju16 [ jumlah ]
+â”£ârexju17 [ jumlah ]
+â”£ârexju18 [ jumlah ]
+â”£ârexju19 [ jumlah ]
+â”£ârexju20 [ jumlah ]
 â”£ârexju21 [ jumlah ]
 â”£ârexju22 [ jumlah ]
 â”£ârexju23 [ jumlah ]
@@ -4818,7 +4818,7 @@ Ketik > m.chat ( di group dulu )
 â”£ârexju60 [ jumlah ]
 â”£âbuttonkematian [ jumlah ]
 â”£âmexcrot [ jumlah ]
-â”£âkznih [ jumlah ]
+â”£ârexjunih [ jumlah ]
 â”£âokemex [ jumlah ]
 â”£âahyangbetul [ jumlah ]
 â”£âampunsuhu [ jumlah ]
